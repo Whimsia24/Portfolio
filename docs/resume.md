@@ -65,7 +65,7 @@ September 2023 - Present
 ## Supporting Links
 - LinkedIn: https://www.linkedin.com/in/laura-travis-0752a73b6/
 - GitHub: https://github.com/Whimsia24
-- Portfolio: Add live portfolio URL after publishing (GitHub Pages or Netlify)
+- Portfolio: https://whimsia24.github.io/Portfolio/
 - Resume: docs/Laura-Travis-Resume.doc
 
 ## Additional Strengths
